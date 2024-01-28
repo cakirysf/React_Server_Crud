@@ -14,5 +14,6 @@
  
 <h1>Proje Görüntüsü</h1>
 
-![](public/web-gif.gif)
+![](public/web-gif-crud.gif)
+
 
