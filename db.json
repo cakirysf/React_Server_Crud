@@ -1,0 +1,63 @@
+{
+  "todos": [
+    {
+      "id": "9313d13e-82f0-48a6-9c35-f805924fd66c",
+      "title": "UUID Araştır Tekrar",
+      "status": "important",
+      "date": "21.01.2024"
+    },
+    {
+      "id": "57e182d3-b785-4fd9-bc13-0834678da34f",
+      "title": "Todo Ekle Yeni",
+      "status": "default",
+      "date": "21.01.2024"
+    },
+    {
+      "id": "69054aa6-7e49-46db-852c-8106cee31b8d",
+      "title": "React Dersi Var",
+      "status": "job",
+      "date": "28.01.2024"
+    },
+    {
+      "id": "671124f3-f1f0-4d05-9baa-d272b4bde522",
+      "title": "Server Crud",
+      "status": "important",
+      "date": "28.01.2024"
+    },
+    {
+      "id": "1204ed16-6a76-47bd-919c-9498a69b5f2c",
+      "title": "Yazılım Eğitimi",
+      "status": "job",
+      "date": "28.01.2024"
+    },
+    {
+      "id": "3dd8c257-e6b7-4358-825e-ae2843f4fc02",
+      "title": "React Eğitimi Var",
+      "status": "daily",
+      "date": "28.01.2024"
+    },
+    {
+      "id": "2d4930a7-9fed-4ede-ae7b-46bedff4597f",
+      "title": "Yeni bir iş",
+      "status": "job",
+      "date": "28.01.2024"
+    },
+    {
+      "id": "52b5464f-8eda-4a93-86e9-19d75b7a8fc3",
+      "title": "Yeni Proje",
+      "status": "important",
+      "date": "28.01.2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "text": "Ali"
+    },
+    {
+      "id": "2",
+      "text": "Veli"
+    }
+  ],
+  "activty": []
+}
