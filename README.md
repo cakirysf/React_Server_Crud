@@ -1,10 +1,7 @@
 # React + Vite Server CRUD | React Server Crud App
-<p>React Kütüphanesi ile birlikte Vite kullanımı gösteren ayrıca, serverdan api ile veri alma, veri ekleme, veri düzenleme, veri silme işlemlerinin yapıldı güzel bir uygulamayı yayınladım. Kodları inceleyerek aşağıda başlıklar altında verilen tüm özellikleri inceleyebilirsiniz.</p>
-<ul>
-  <li>React</li>
-  <li>Vite Next Generation Frontend Tooling</li>
-  <li>Json-Server | Axios</li>
-</ul>
+<p>RVite ve React temel yapıları kullanılarak geliştirilmiş Pokemon Kart oyunu.
+  
+#React #Vite #JavaScript #ReactJs
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -14,6 +11,6 @@
  
 <h1>Proje Görüntüsü</h1>
 
-![](public/web-gif-crud2.gif)
+![](public/web-gif.gif)
 
 
