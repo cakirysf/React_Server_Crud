@@ -14,6 +14,6 @@ React Kütüphanesi ile birlikte Vite kullanımı gösteren ayrıca, serverdan A
  
 <h1>Proje Görüntüsü</h1>
 
-![](public/web-gif.gif)
+![](public/web-gif-crud2.gif)
 
 
